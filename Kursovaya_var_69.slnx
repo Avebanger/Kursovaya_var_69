@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Kursovaya_var_69/Kursovaya_var_69.vcxproj" />
+</Solution>
