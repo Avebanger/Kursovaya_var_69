@@ -30,7 +30,7 @@
 
 ### Блок-схема
 
-[https://github.com/Avebanger/Kursovaya_var_69/blob/master/Курсовая.drawio](https://github.com/Avebanger/Kursovaya_var_69/blob/master/Курсовая.png)
+https://github.com/Avebanger/Kursovaya_var_69/blob/master/Курсовая.png
 
 ## 2. Реализация программы
 ```
